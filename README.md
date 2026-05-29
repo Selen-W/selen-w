@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 # 📚 Currently focusing on
-Distributed Systems
-Spring Boot Microservices
-Kafka Event-Driven Architecture
-Redis Caching
-Observability & Troubleshooting
-AI-assisted Operations Platforms
+- Distributed Systems
+- Spring Boot Microservices
+- Kafka Event-Driven Architecture
+- Redis Caching
+- Observability & Troubleshooting
+- AI-assisted Operations Platforms
 
 # 🚀 Featured Project 
 
