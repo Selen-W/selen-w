@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi， I'm Selen👋
 
 <!--
 **Selen-W/selen-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 📚 Currently focusing on
+Distributed Systems
+Spring Boot Microservices
+Kafka Event-Driven Architecture
+Redis Caching
+Observability & Troubleshooting
+AI-assisted Operations Platforms
+
+# 🚀 Featured Project 
+
+## AI Log Analysis Platform 
+
+Production-style observability and troubleshooting platform designed to simulate real-world distributed system incidents. 
+
+### Features 
+
+- Structured log ingestion
+- Kafka asynchronous event pipeline
+- Redis-based issue aggregation
+- AI-powered root cause suggestion
+- Payment timeout simulation
+- Downstream service failure simulation
+
+
+  ### Architecture
+  ```text
+  Microservices
+    ↓
+  Kafka Event Pipeline
+    ↓
+  Log Consumer Service
+    ↓
+  Redis Aggregation
+    ↓
+  AI Analysis Service (FastAPI)
+    ↓
+  Grafana Dashboard
